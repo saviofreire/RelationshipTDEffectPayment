@@ -23,7 +23,9 @@
 	}
 		</style>
   <body>
-	<object type="image" data="cropped-logoV11-1.svg" class="logo"></object>
+	<a href="http://www.td-survey.com/">
+	img src="cropped-logoV11-1.svg" alt="The InsighTD Project" width=60 height=40
+	</a>
     <h1 class="text-center"><center>Relationship between Technical Debt Effects and Technical Debt Payment</center></h1>
     <h2> The alluvial diagram below represents the relationships between the top 10 technical debt (TD) effects and their TD payment-related practices and reasons for TD non-payment. <br> <br>
 		Some instructions: <br>
