@@ -23,7 +23,7 @@
 	}
 		</style>
   <body>
-	<center><a href="https://technicaldebtesem.github.io/payment/">
+	<center><a href="http://www.td-survey.com/">
 	<img src="cropped-logoV11-1.png" alt="InsighTD Project logo">
 	</a>
 	</center>
